@@ -1,0 +1,16 @@
+*{
+    min-height: 100vh;
+    min-width: 100vw;
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+header div{
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    color: blue;
+}
+
+
