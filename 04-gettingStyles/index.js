@@ -16,3 +16,5 @@ btnDecreaseFont.onclick = function(){
     initialFontSize-= 10;
     mainHeading.style.fontSize = initialFontSize + "px";
 }
+
+
