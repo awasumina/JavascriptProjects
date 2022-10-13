@@ -1,0 +1,28 @@
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+button{
+    width: 10vw;
+    height: 5vh;
+    margin-left: 10px;
+}
+
+#main-heading{
+    margin-top: 10vh;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    
+}
