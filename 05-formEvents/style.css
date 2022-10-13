@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: black;    
+}
+
+#login-form{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 30vw;
+    height: 40vh;
+    margin-left: 35vw;
+    margin-top: 30vh;
+}
+
+input{
+    height:7vh;
+    margin-bottom: 10px; 
+    background-color: aliceblue;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+#btn-submit{
+    background-color: aliceblue;
+    color: black;
+    font-size: 24px;
+    width: 15vw;
+    margin-left: 7vw;
+    justify-content: center;
+}
