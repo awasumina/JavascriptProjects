@@ -1,4 +1,5 @@
 var username = document.getElementById('username');
+
 var loginForm = document.getElementById('login-form')
 
 //change, focus, blur, submit are event properties
