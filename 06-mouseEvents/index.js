@@ -37,8 +37,7 @@ var moveCount = 0;
 moveElement.addEventListener('mousemove',function(){
     var countElement = document.querySelector('#move>p');
     moveCount +=1;
-    countElement.innerHTML = moveCount;
-    
+    countElement.innerHTML = moveCount;   
 })
 
 
